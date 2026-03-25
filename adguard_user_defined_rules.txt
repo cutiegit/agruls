@@ -1,0 +1,16 @@
+news.qq.com###content-right
+news.qq.com##.left-tool
+news.qq.com###recommend
+163.com##.post_side
+sohu.com###right-side-bar
+sohu.com###articleAllsee
+sohu.com###groomRead
+finance.sina.com.cn##.vip-class
+finance.sina.com.cn##.article-content-right
+finance.sina.com.cn##.app-viplive
+finance.sina.com.cn##.tab-related-wrap
+news.qq.com###top-nav
+blog.csdn.net###csdn-toolbar
+blog.csdn.net###mainBox > aside.blog_container_aside:nth-child(3) > div.gitcode-qc-left-box.aside-box:last-child > div.gitcode-quick-app.light > div.gitcode-work-space
+blog.csdn.net##.second-recommend-box, .recommend-box
+jianshu.com###__next > header:first-child
