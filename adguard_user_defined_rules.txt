@@ -2,17 +2,22 @@ news.qq.com###content-right
 news.qq.com##.left-tool
 news.qq.com###recommend
 163.com##.post_side
+163.com##.ntes_nav_wrap
+163.com##.post_recommends, .js-tab-mod
 sohu.com###right-side-bar
 sohu.com###articleAllsee
 sohu.com###groomRead
-finance.sina.com.cn##.vip-class
-finance.sina.com.cn##.article-content-right
-finance.sina.com.cn##.app-viplive
-finance.sina.com.cn##.tab-related-wrap
+sohu.com###main-header
+sina.com.cn##.vip-class
+sina.com.cn##.article-content-right
+sina.com.cn##.app-viplive
+sina.com.cn##.tab-related-wrap
+sina.com.cn###sina-header
 news.qq.com###top-nav
 blog.csdn.net###csdn-toolbar
-blog.csdn.net###mainBox > aside.blog_container_aside:nth-child(3) > div.gitcode-qc-left-box.aside-box:last-child > div.gitcode-quick-app.light > div.gitcode-work-space
 blog.csdn.net##.second-recommend-box, .recommend-box
+blog.csdn.net##.runner-box, .box3, .ins-code-runner-btn
+blog.csdn.net###mainBox > aside.blog_container_aside:nth-child(3) > div.gitcode-qc-left-box.aside-box:last-child > div.gitcode-quick-app.light > div.gitcode-work-space
 jianshu.com###__next > header:first-child
 msn.cn###consumption-feed-common-header
 msn.cn##.consumption-page-gridarea_rail
